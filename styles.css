@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+#container1{
+	background-color: rgb(204, 204, 204);
+	font-family: Arial,Helvetica;
+}
+#container2{
+	text-decoration:none;
+	padding:15px;
+	margin:30px;
+	margin-bottom:0px;
+	border-radius:3%;
+}
+.center{
+	text-align: center;
+}
+.back{
+	background-color: rgb(255, 255, 255); 
+	border:2px solid black;
+}
+#container3{
+	margin:60px;
+	margin-top:15px;
+	padding:15px;
+	border-radius:2%;
+}
+.player_two{
+	width:100%;
+	padding:10px;
+}
+
+.list{
+	list-style-type:none;
+	text-decoration:none;
+	margin:5px;
+}
