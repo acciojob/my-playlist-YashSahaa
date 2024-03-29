@@ -4,7 +4,7 @@
 	padding:0px;
 }
 #container1{
-	background-color: rgb(204, 204, 204);
+	background-color:rgb(204,204,204);
 	font-family: Arial,Helvetica;
 }
 #container2{
@@ -18,7 +18,7 @@
 	text-align: center;
 }
 .back{
-	background-color: rgb(255, 255, 255); 
+	background-color:rgb(255,255,255); 
 	border:2px solid black;
 }
 #container3{
