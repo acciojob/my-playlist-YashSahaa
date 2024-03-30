@@ -3,7 +3,11 @@
 	margin:0px;
 	padding:0px;
 }
-#container1{
+/* #container1{
+	background-color:rgb(204,204,204);
+	font-family: Arial,Helvetica;
+} */
+body{
 	background-color:rgb(204,204,204);
 	font-family: Arial,Helvetica;
 }
@@ -13,12 +17,13 @@
 	margin:30px;
 	margin-bottom:0px;
 	border-radius:3%;
+	background-color:rgb(255,255,255); 
 }
 .center{
 	text-align: center;
 }
 .back{
-	background-color:rgb(255,255,255); 
+	
 	border:2px solid black;
 }
 #container3{
@@ -26,6 +31,7 @@
 	margin-top:15px;
 	padding:15px;
 	border-radius:2%;
+	background-color:rgb(255,255,255); 
 }
 .player_two{
 	width:100%;
