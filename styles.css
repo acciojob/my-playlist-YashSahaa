@@ -3,30 +3,26 @@
 	margin:0px;
 	padding:0px;
 }
-/* #container1{
-	background-color:rgb(204,204,204);
-	font-family: Arial,Helvetica;
-} */
 body{
 	background-color:rgb(204,204,204);
 	font-family: Arial,Helvetica;
+	padding:10px;
 }
-#container2{
+#container1{
 	text-decoration:none;
 	padding:15px;
 	margin:30px;
 	margin-bottom:0px;
-	border-radius:3%;
+	border-radius:8px 10px;
 	background-color:rgb(255,255,255); 
 }
 .center{
 	text-align: center;
 }
 .back{
-	
 	border:2px solid black;
 }
-#container3{
+#container2{
 	margin:60px;
 	margin-top:15px;
 	padding:15px;
