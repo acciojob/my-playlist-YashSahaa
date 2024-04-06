@@ -29,13 +29,15 @@ body{
 	border-radius:2%;
 	background-color:rgb(255,255,255); 
 }
+.player_one{
+	background-color:rgb(255, 255, 255);
+}
 .player_two{
 	width:100%;
 	padding:10px;
 }
 
 .list{
-	list-style-type:none;
-	text-decoration:none;
+	text-decoration-line:none;
 	margin:5px;
 }
