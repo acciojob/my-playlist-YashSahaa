@@ -38,7 +38,7 @@ body{
 	background-color:rgb(255, 255, 255);
 }
 
-.list{
+.list>a{
 	text-decoration-line:none;
 	margin:5px;
 }
